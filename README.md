@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 Just student looking for his path.
 <!--
 **DominikBrandys/DominikBrandys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
